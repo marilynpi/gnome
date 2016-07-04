@@ -7,6 +7,7 @@ Gnome appearance setup
 - Gnome-shell: [Xenlism Minimalism](https://github.com/xenlism/minimalism) (modified)
   * Start icon was changed.
   * App menu spinner was changed.
+  * Panel background color was changed to black
 
 Icons: [Vivacious Colors] (http://www.ravefinity.com/p/vivacious-colors-gtk-icon-theme.html)
 Install via PPA:
